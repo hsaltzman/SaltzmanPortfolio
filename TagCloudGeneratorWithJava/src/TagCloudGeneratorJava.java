@@ -14,7 +14,7 @@ import java.util.Set;
 /**
  * Put a short phrase describing the program here.
  *
- * @author Henry Saltzman & Kevin Dong
+ * @author Henry Saltzman
  *
  */
 public final class TagCloudGeneratorJava {
